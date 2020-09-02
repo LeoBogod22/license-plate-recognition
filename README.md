@@ -13,4 +13,7 @@ This  project focuses on "Vechicle recognition , using opencv , skit image  usin
 </p>
 <br></br>
 
-  <img src="https://github.com/LeoBogod22/License_Plate_Recognition/blob/master/Screenshot_15.png">
+  <img src="https://github.com/LeoBogod22/License_Plate_Recognition/blob/master/Screenshot_15.png"><br></br>
+  
+  <img src="https://github.com/LeoBogod22/License_Plate_Recognition/blob/master/Screenshot_20.png">
+
