@@ -1,6 +1,6 @@
 # license plate recognition
 
-# VEHICLE RECOGNITION , LICENSE PLATE , MAKE , YEAR AND MORE! 
+# VEHICLE RECOGNITION , LICENSE PLATE , Brand , YEAR AND MORE! 
 This  project focuses on "Vechicle recognition , using opencv , skit image  using  openalpr API  
 
 ---
