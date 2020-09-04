@@ -4,6 +4,8 @@
 This  project focuses on "Vechicle recognition , using opencv , skit image  using  openalpr API  
 
 ---
+# demo : https://www.youtube.com/watch?v=79MWFko1hUA&t=52s&ab_channel=LeonBogod
+
 
 **OpenALPR API and OpenCV   is used as a base for object recogntion on this project, more info can be found on this [repo](https://github.com/ahmetozlu/tensorflow_object_counting_api).***
 
